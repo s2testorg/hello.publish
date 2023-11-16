@@ -1,6 +1,7 @@
 name: Yet Another
 on: 
   push:
+  pull_request:
     
 jobs:
   one-more:
