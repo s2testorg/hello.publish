@@ -1,5 +1,5 @@
 # Hello Publish
-This repo demostrates using `jobs`, `matrix`, and executing `multiple workflows` based on the same commit. All of the published results are aggregated together as a single result set.
+This repo demonstrates using `jobs`, `matrix`, and executing `multiple workflows` based on the same commit. All of the published results are aggregated together as a single result set.
  
 [![Matrix](https://github.com/testspace-com/hello.publish/actions/workflows/matrix.yml/badge.svg)](https://github.com/testspace-com/hello.publish/actions/workflows/matrix.yml) [![Jobs ](https://github.com/testspace-com/hello.publish/actions/workflows/jobs.yml/badge.svg)](https://github.com/testspace-com/hello.publish/actions/workflows/jobs.yml) [![Yet Another ](https://github.com/testspace-com/hello.publish/actions/workflows/yetanother.yml/badge.svg)](https://github.com/testspace-com/hello.publish/actions/workflows/yetanother.yml)
 
